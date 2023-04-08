@@ -1,1 +1,1 @@
-# ray_tracer
+# software_ray_tracer
